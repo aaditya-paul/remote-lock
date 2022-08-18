@@ -1,25 +1,25 @@
 {
   "files": {
-    "app.js": "/static/js/app.3bf18088.chunk.js",
-    "app.js.map": "/static/js/app.3bf18088.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.27401809.js",
-    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.2b348bb6.chunk.js": "/static/js/2.2b348bb6.chunk.js",
-    "static/js/2.2b348bb6.chunk.js.map": "/static/js/2.2b348bb6.chunk.js.map",
-    "fonts/MPLUSCodeLatin-Regular.ttf": "/./fonts/MPLUSCodeLatin-Regular.ttf",
-    "fonts/MuseoModerno-Regular.ttf": "/./fonts/MuseoModerno-Regular.ttf",
-    "fonts/RobotoMono-Regular.ttf": "/./fonts/RobotoMono-Regular.ttf",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.2b348bb6.chunk.js.LICENSE.txt": "/static/js/2.2b348bb6.chunk.js.LICENSE.txt"
+    "app.js": "/remote-lock/static/js/app.3bf18088.chunk.js",
+    "app.js.map": "/remote-lock/static/js/app.3bf18088.chunk.js.map",
+    "runtime~app.js": "/remote-lock/static/js/runtime~app.717fb769.js",
+    "runtime~app.js.map": "/remote-lock/static/js/runtime~app.717fb769.js.map",
+    "static/js/2.e2689f8e.chunk.js": "/remote-lock/static/js/2.e2689f8e.chunk.js",
+    "static/js/2.e2689f8e.chunk.js.map": "/remote-lock/static/js/2.e2689f8e.chunk.js.map",
+    "fonts/MPLUSCodeLatin-Regular.ttf": "/remote-lock/./fonts/MPLUSCodeLatin-Regular.ttf",
+    "fonts/MuseoModerno-Regular.ttf": "/remote-lock/./fonts/MuseoModerno-Regular.ttf",
+    "fonts/RobotoMono-Regular.ttf": "/remote-lock/./fonts/RobotoMono-Regular.ttf",
+    "favicon-16.png": "/remote-lock/favicon-16.png",
+    "favicon-32.png": "/remote-lock/favicon-32.png",
+    "favicon.ico": "/remote-lock/favicon.ico",
+    "index.html": "/remote-lock/index.html",
+    "manifest.json": "/remote-lock/manifest.json",
+    "serve.json": "/remote-lock/serve.json",
+    "static/js/2.e2689f8e.chunk.js.LICENSE.txt": "/remote-lock/static/js/2.e2689f8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.27401809.js",
-    "static/js/2.2b348bb6.chunk.js",
+    "static/js/runtime~app.717fb769.js",
+    "static/js/2.e2689f8e.chunk.js",
     "static/js/app.3bf18088.chunk.js"
   ]
 }
